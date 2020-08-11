@@ -11,12 +11,12 @@ Installation
 
 Add spree_sofort to your Gemfile:
 ```ruby
-gem 'spree_sofort', :git => 'git://github.com/hefan/spree_sofort.git'
+gem 'spree_sofort', :git => 'https://github.com/hefan/spree_sofort.git'
 ```
 
 For a specific version use the appropriate branch, for example
 ```ruby
-gem 'spree_sofort', :git => 'git://github.com/hefan/spree_sofort.git', :branch => 'master'
+gem 'spree_sofort', :git => 'https://github.com/hefan/spree_sofort.git', :branch => 'master'
 ```
 
 
